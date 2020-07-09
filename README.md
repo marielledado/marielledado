@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 My name is Marielle and I'm a data scientist based in Berlin, Germany. In a past life, I was a learning sciences researcher (PhD), which means I combined theories from psychology and methods from computer science to understand how people learn.
 
@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+---
 - 🌱 I’m currently learning ... about algorithmic fairness by contributing to the [fairlearn](https://fairlearn.github.io/)
 - 👯 I’m looking to collaborate on ... mentoring/teaching opportunities (data science and Python).
 - ⚡ Fun fact: I co-own a coffee farm with my family.
