@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 
 ---
 - 🌱 I’m currently learning ... about algorithmic fairness by contributing to [fairlearn](https://fairlearn.github.io/)
-- 👯 I’m looking to collaborate on ... mentoring/teaching opportunities (data science and Python).
+- 👯 I’m looking to collaborate on ... data science projects or mentoring/teaching opportunities in data science and Python.
 - ⚡ Fun fact: I co-own a coffee farm with my family.
