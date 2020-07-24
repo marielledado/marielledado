@@ -1,4 +1,4 @@
-### Hi, I'm Marielle 👋
+### Hi, I'm Marielle 👋 Check out my personal projects!
 
 I'm a data scientist based in Berlin, Germany. In a past life, I was a learning sciences researcher (PhD), which means I combined theories from psychology and methods from computer science to understand how people learn.
 
