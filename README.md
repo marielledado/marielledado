@@ -22,5 +22,6 @@ Here are some ideas to get you started:
 -->
 
 ---
+- 🌱 I’m currently learning ... test-driven development with the book [Tiny Python Projects](https://www.manning.com/books/tiny-python-projects)
 - 👯 I’m looking to collaborate on ... data science projects or mentoring/teaching opportunities in data science and Python.
 - ⚡ Fun fact: I co-own a coffee farm with my family.
